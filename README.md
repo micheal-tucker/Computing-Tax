@@ -26,6 +26,8 @@ Each filing status uses its own tax brackets and marginal tax rates (10%–35%).
 
 ---
 
+![Program Screenshot](/screenshot/tax.png)
+
 ## 🧠 Features
 
 - Calculates personal income tax based on filing category  
@@ -75,3 +77,4 @@ Passionate about Python, frontend, and AI development.
 
 ---
 #
+
