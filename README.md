@@ -38,3 +38,40 @@ Each filing status uses its own tax brackets and marginal tax rates (10%–35%).
 
 ## ▶️ How to Run (Python)
 
+python tax_calculator.py
+
+You will be asked to enter:
+1. Filing status (0–3)
+2. Taxable income  
+
+Program outputs:
+- Exact tax amount owed  
+
+---
+
+## 🧩 Flowgorithm Version
+
+The Flowgorithm version includes:
+- Main function for input/output  
+- Four calculation functions  
+- If–Else based marginal tax logic  
+
+---
+
+## 📂 Files in this project
+
+├── tax_calculator.py
+├── README.md
+└── flowgorithm/
+├── tax_calculator.fprg
+
+
+---
+
+## 👨‍💻 Author
+**Michael Tucker**  
+Junior Software Developer  
+Passionate about Python, frontend, and AI development.
+
+---
+#
